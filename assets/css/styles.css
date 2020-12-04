@@ -1,5 +1,21 @@
-.background-image {
+/* Element selectors */
+
+body {
     background-image: url(../images/ignasi_pattern_s.png);
     background-repeat: repeat;
     height: 100%;
 }
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Class selectors */
+
+.navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
