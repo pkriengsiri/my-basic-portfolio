@@ -28,5 +28,11 @@ html {
     height: 20px; /* Set the fixed height of the footer here */
   }
   
+  .my-list {
+      list-style-position: inside;
+  }
 
+  .my-list-item {
+     margin-bottom: 10px;
+  }
 
