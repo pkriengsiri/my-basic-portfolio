@@ -5,9 +5,24 @@ A simple portfolio application using the Bootstrap CSS framework for styling
 
 This project is a simple three-section personal portfolio application.  The styling across the application was selected to match predefined mockups.  The application was built using HTML, CSS and the Bootstrap 4.5 CSS framework for styling and interactive javascript elements.
 
+### Links
+
+[Link to the deployed website](https://pkriengsiri.github.io/my-basic-portfolio/)
+
+[Link to the code repository](https://github.com/pkriengsiri/my-basic-portfolio)
+
+[W3 Validation]
+
 ## Installation
 
+Upload index.html, license.txt, and assets folder to the deployed webserver.  The assets folder contains images and CSS files.
+
+The deployed website linked above was deployed using GitHub Pages.  The repository replicated by via fork, clone, and redeployment with GitHub Pages.
+
 ## Usage
+
+Once deployed the application can be viewed on large or small screen web browsers.  The application has clickable links in the nav-bar which can also be accessed via hamburger menu on devices below 
+
 
 ## Credits
 
