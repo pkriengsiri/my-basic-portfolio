@@ -23,7 +23,7 @@ Key features include
 
 ## Installation
 
-Upload index.html, license.txt, and assets folder to the deployed webserver.  The assets folder contains images and CSS files.
+Upload index.html, portfolio.html, about.html, license.txt, and assets folder to the deployed webserver.  The assets folder contains images and CSS files.
 
 The deployed website linked above was deployed using GitHub Pages.  The repository replicated by via fork, clone, and redeployment with GitHub Pages.
 
